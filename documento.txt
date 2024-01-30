@@ -1,0 +1,5 @@
+Este es un documento de texto plano
+
+al cual no se le van a hacer cambios 
+
+y luego esos cambios se van a guardar en git
