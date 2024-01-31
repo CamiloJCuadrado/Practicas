@@ -1,7 +1,6 @@
 Este es un archivo de texto plano
 
-al cual se le van a hacer cambios 
+Al cual se le van a hacer cambios y luego esos cambios se van a guardar en git. 
 
-y luego esos cambios se van a guardar en git
+De manera que podamos aprender git 
 
-de manera que podamos aprender git 
