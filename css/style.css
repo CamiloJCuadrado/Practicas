@@ -21,3 +21,25 @@ p{
     margin: 2rem 0;
     line-height: 1.2;
 }
+
+#cabecera{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #999;
+}
+.nav {
+    display: flex;
+    width: 80%;
+    justify-content: space-around;
+    margin: 1rem 0;
+}
+
+.nav_a{
+    text-align: center;
+    transition: all ease-in .2s;
+}
+.nav_a:hover{
+    font-size: 1.2rem;
+    color: #fff;
+}
