@@ -31,3 +31,28 @@ body {
     font-size: 1.7rem;
     transform: scale(1.1);
 }
+
+
+#cabecera{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #999;
+    height: 5rem;
+}
+.nav {
+    display: flex;
+    width: 80%;
+    justify-content: space-around;
+    margin: 2rem 0;
+}
+
+.nav_a{
+    text-align: center;
+    transition: all ease-in .2s;
+    font-size: 1.8rem;
+}
+.nav_a:hover{
+    font-size: 2rem;
+    color: #fff; 
+}
